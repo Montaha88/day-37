@@ -1,0 +1,16 @@
+.container{
+    height: 670px;
+    background-color:#FFF9F4;
+
+}
+.img{
+    height: 407px;
+    width: 407px;
+}
+span{
+    color: orangered;
+}
+.abc{
+    margin-left: 80px;
+}
+
